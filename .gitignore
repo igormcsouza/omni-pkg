@@ -1,0 +1,6 @@
+.venv
+.vscode
+.mypy_cache/
+omni_pkg.egg-info/
+__pycache__/
+build/
